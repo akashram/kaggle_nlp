@@ -2,3 +2,6 @@
 
 # Environments
 venv/
+
+#Mac Junk
+*.DS_Store
